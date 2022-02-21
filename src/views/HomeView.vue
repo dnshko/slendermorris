@@ -5,10 +5,8 @@ import HeroSection from "../components/HeroSectionComponent.vue";
 import SliderComponenent from "../components/SliderComponenent.vue";
 import FirstSectionComponent from "../components/FirstSectionComponent.vue";
 import SectionTwoComponent from "../components/SectionTwoComponent.vue";
-import SectionThreeComponent from "../components/SectionThreeComponent.vue";
 import SectionFourComponent from "../components/SectionFourComponent.vue";
 import SectionFiveComponent from "../components/SectionFiveComponent.vue";
-import SectionSixComponent from "../components/SectionSixComponent.vue";
 import Section7Component from "../components/Section7Component.vue";
 import Section8Component from "../components/Section8Component.vue";
 import Section9Component from "../components/Section9Component.vue";
@@ -32,10 +30,17 @@ import Section9Component from "../components/Section9Component.vue";
               <SliderComponenent />
               <FirstSectionComponent />
               <SectionTwoComponent />
-              <SectionThreeComponent />
-              <SectionFourComponent />
+              <!-- <SectionThreeComponent /> -->
+              <SectionFourComponent
+                title="CURTAIN GUIDE (1 of 3)"
+                herfLink="https://f.hubspotusercontent40.net/hubfs/20517593/guide/GUIDE%20-%20%20Made%20to%20Order%20ILIV%20-%20Slender%20Morris%20(FINAL)(Use)(October%202021).pdf"
+              />
               <SectionFiveComponent />
-              <SectionSixComponent />
+              <SectionFourComponent
+                title="BLINDGUIDE (2 of 3)"
+                herfLink="https://f.hubspotusercontent40.net/hubfs/20517593/guide/GUIDE%20-%20%20Made%20to%20Order%20ILIV%20-%20Slender%20Morris%20(FINAL)(Use)(October%202021).pdf"
+              />
+              <!-- <SectionSixComponent /> -->
               <Section7Component />
               <Section8Component />
               <Section9Component />

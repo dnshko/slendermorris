@@ -521,5 +521,8 @@ a.cta_button {
   margin-top: 141px;
 }
 
-#hs_cos_wrapper_widget_1634620339714 .icon svg {
+/*  */
+.hero-h1 {
+  color: #ffffff;
+  background-color: rgba(102, 102, 102, 0.8);
 }

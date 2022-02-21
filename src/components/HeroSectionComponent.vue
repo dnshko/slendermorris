@@ -49,16 +49,7 @@
                             >
                               <h1 style="text-align: center; font-weight: bold">
                                 <span style="color: #425b76"
-                                  ><span
-                                    style="
-                                      color: #ffffff;
-                                      background-color: rgba(
-                                        102,
-                                        102,
-                                        102,
-                                        0.77
-                                      );
-                                    "
+                                  ><span class="hero-h1"
                                     >100% CUSTOM - MADE TO ORDER WORK ROOM -
                                     Fabric and Make Up</span
                                   >&nbsp;</span

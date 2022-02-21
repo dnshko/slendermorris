@@ -1,3 +1,11 @@
+<script>
+export default {
+  props: {
+    title: String,
+    herfLink: String,
+  },
+};
+</script>
 <template>
   <div
     class="row-fluid-wrapper row-depth-1 row-number-17 dnd_area-row-3-max-width-section-centering dnd-section dnd_area-row-3-padding"
@@ -35,13 +43,11 @@
                 >
                   <h2 style="font-size: 36px">
                     <a
-                      href="https://f.hubspotusercontent40.net/hubfs/20517593/guide/GUIDE%20-%20%20Made%20to%20Order%20ILIV%20-%20Slender%20Morris%20(FINAL)(Use)(October%202021).pdf"
+                      :href="herfLink"
                       rel="noopener"
                       target="_blank"
                       id="__hsNewLink"
-                      ><span style="color: #000000"
-                        >CURTAIN GUIDE (1 of 3)</span
-                      ></a
+                      ><span style="color: #000000"> {{ title }}</span></a
                     >
                   </h2>
                 </span>
