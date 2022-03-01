@@ -21,7 +21,7 @@
                 id="hs-link-site_logo_hs_logo_widget"
                 style="border-width: 0px; border: 0px"
                 ><img
-                  src="https://f.hubspotusercontent40.net/hub/20517593/hubfs/Imported_Blog_Media/New%20Logo%20-%20JPG%20File.jpg?width=400&amp;name=New%20Logo%20-%20JPG%20File.jpg"
+                  src="../assets/images/New Logo - JPG File.jpg"
                   class="hs-image-widget"
                   style="width: 400px; border-width: 0px; border: 0px"
                   width="400"

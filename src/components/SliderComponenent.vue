@@ -34,7 +34,7 @@
                           <img
                             class="logos-image color"
                             alt="Victorian_Glasshouse_Spruce_Cameo_10-1-1-1"
-                            src="https://f.hubspotusercontent40.net/hubfs/20517593/Victorian_Glasshouse_Spruce_Cameo_10-1-1-1.jpeg"
+                            src="../assets/images/Victorian_Glasshouse_Spruce_Cameo_10-1-1-1.webp"
                           />
                         </div>
 
@@ -42,7 +42,7 @@
                           <img
                             class="logos-image color"
                             alt="sinfonia_clay_cameo_04-1"
-                            src="https://f.hubspotusercontent40.net/hubfs/20517593/sinfonia_clay_cameo_04-1.jpg"
+                            src="../assets/images/sinfonia_clay_cameo_04-1.jpg"
                           />
                         </div>
 
@@ -50,7 +50,7 @@
                           <img
                             class="logos-image color"
                             alt="Victorian_Glasshouse_Woodrose_Cameo_5-1"
-                            src="https://f.hubspotusercontent40.net/hubfs/20517593/Victorian_Glasshouse_Woodrose_Cameo_5-1.jpg"
+                            src="../assets/images/Victorian_Glasshouse_Woodrose_Cameo_5-1.webp"
                           />
                         </div>
 
@@ -58,7 +58,7 @@
                           <img
                             class="logos-image color"
                             alt="SILK_ROAD_HAZE_CAMEO_9"
-                            src="https://f.hubspotusercontent40.net/hubfs/20517593/SILK_ROAD_HAZE_CAMEO_9.jpg"
+                            src="../assets/images/SILK_ROAD_HAZE_CAMEO_9.webp"
                           />
                         </div>
 
@@ -66,7 +66,7 @@
                           <img
                             class="logos-image color"
                             alt="SILK_ROAD_SAPPHIRE_CAMEO_4"
-                            src="https://f.hubspotusercontent40.net/hubfs/20517593/SILK_ROAD_SAPPHIRE_CAMEO_4.jpg"
+                            src="../assets/images/SILK_ROAD_SAPPHIRE_CAMEO_4.webp"
                           />
                         </div>
 
@@ -74,7 +74,7 @@
                           <img
                             class="logos-image color"
                             alt="ASTORIA_CLOUD_CAMEO_5"
-                            src="https://f.hubspotusercontent40.net/hubfs/20517593/ASTORIA_CLOUD_CAMEO_5.jpg"
+                            src="../assets/images/ASTORIA_CLOUD_CAMEO_5.webp"
                           />
                         </div>
                       </div>

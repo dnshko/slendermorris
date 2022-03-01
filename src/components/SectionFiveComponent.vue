@@ -33,7 +33,7 @@
                   data-hs-cos-general-type="widget"
                   data-hs-cos-type="linked_image"
                   ><img
-                    src="https://f.hubspotusercontent40.net/hubfs/20517593/Victorian_Glasshouse_Spruce_Cameo_6.jpg"
+                    src="../assets/images/Victorian_Glasshouse_Spruce_Cameo_6.webp"
                     class="hs-image-widget"
                     style="max-width: 100%; height: auto"
                     alt="Victorian_Glasshouse_Spruce_Cameo_6"

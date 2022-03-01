@@ -48,7 +48,7 @@
                           rel="noopener"
                           style="border-width: 0px; border: 0px"
                           ><img
-                            src="https://f.hubspotusercontent40.net/hubfs/20517593/Victorian_Glasshouse_Spruce_Cameo_6%20(1)-1-1-1-1-1.jpeg"
+                            src="../assets/images/Victorian_Glasshouse_Spruce_Cameo_6 (1)-1-1-1-1-1 (1).webp"
                             class="hs-image-widget"
                             style="max-width: 100%; height: auto"
                             alt="Victorian_Glasshouse_Spruce_Cameo_6 (1)-1-1-1-1-1"
@@ -197,7 +197,7 @@
                           rel="noopener"
                           style="border-width: 0px; border: 0px"
                           ><img
-                            src="https://f.hubspotusercontent40.net/hubfs/20517593/Victorian_Glasshouse_Spruce_Cameo_10-1-1-4.jpeg"
+                            src="../assets/images/Victorian_Glasshouse_Spruce_Cameo_10-1-1-4.webp"
                             class="hs-image-widget"
                             style="max-width: 100%; height: auto"
                             alt="Victorian_Glasshouse_Spruce_Cameo_10-1-1-4"
@@ -365,7 +365,7 @@
                           rel="noopener"
                           style="border-width: 0px; border: 0px"
                           ><img
-                            src="https://f.hubspotusercontent40.net/hubfs/20517593/Victorian_Glasshouse_Woodrose_Cameo_5-2.jpg"
+                            src="../assets/images/Victorian_Glasshouse_Woodrose_Cameo_5-2.webp"
                             class="hs-image-widget"
                             style="max-width: 100%; height: auto"
                             alt="Victorian_Glasshouse_Woodrose_Cameo_5-2"

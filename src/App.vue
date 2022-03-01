@@ -7,5 +7,5 @@ import HomeViewVue from "./views/HomeView.vue";
 </template>
 
 <style>
-@import "@/assets/base.css";
+@import "@/assets/css/base.css";
 </style>
